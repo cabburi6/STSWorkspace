@@ -11,8 +11,8 @@
 	<name>StudentApp1 Maven Webapp</name>
 
 	<properties>
-		<springframework.version>4.3.0.RELEASE</springframework.version>
-		<jackson.library>2.7.5</jackson.library>
+		<springframework.version>4.3.29.RELEASE</springframework.version>
+		<jackson.library>2.9.10.6</jackson.library>
 	</properties>
 	
 	<dependencies>
